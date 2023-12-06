@@ -24,5 +24,5 @@ console.log (num1*num2*num3*num4*num5*num6*num7*num8*num9*num10);
 console.log (num1/num2/num3/num4/num5/num6/num7/num8/num9/num10);
 /////////////////////////////////////////////// Task # 3 ///////////////////////////////////////////////////////////////////////////
 // // Declare a string variable with your favorite programming language, Print the final sentence to the console.
-let favorite_language: string = "Typesript";
+var favorite_language: string = "Typesript";
 console.log (`My favorite language is = ${favorite_language}.`)
